@@ -1,1 +1,2 @@
 change_master for gitflow
+change_master for gitflow2
